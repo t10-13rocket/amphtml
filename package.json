@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@ampproject/animations": "0.2.2",
-    "@ampproject/toolbox-cache-url": "2.7.2",
+    "@ampproject/toolbox-cache-url": "2.8.0",
     "@ampproject/viewer-messaging": "1.1.2",
     "@ampproject/worker-dom": "0.27.4",
     "@webcomponents/webcomponentsjs": "2.5.0",
